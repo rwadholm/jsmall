@@ -1,7 +1,4 @@
-/* jQuery-like Functions, © 2019 Bob Wadholm, MIT License
-For ideas about plain vanilla JS to do jQuery kinds of things,
-see https://gist.github.com/joyrexus/7307312
-*/
+/* jSmall: jQuery-like functions, © 2019 Bob Wadholm, MIT License */
 const $ = (function(selector){
 
   let el = [selector]
