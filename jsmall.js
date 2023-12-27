@@ -1,4 +1,4 @@
-/* jSmall: jQuery-like functions, © 2019 Bob Wadholm, MIT License */
+// jSmall: jQuery-like functions, © 2019 Bob Wadholm, MIT License
 const $ = (function(selector){
 
   let el = [selector]
