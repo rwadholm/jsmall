@@ -1,4 +1,4 @@
-# jsmall
+# jSmall
 A very small jQuery-like library, along with a very very small jQuery-like selector option (jSMaller)
 
 ## Use
